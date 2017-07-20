@@ -6,8 +6,9 @@
 #include <string.h>
 #include <stdlib.h>
 #include "dirent.h"
-#include "md5sum.h"
+#include "strutils.h"
 #include "scandir.h"
+#include "md5sum.h"
 #include "cgic/cgic.h"
 
 
