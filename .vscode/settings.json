@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "md5sum.h": "c",
+        "time.h": "c"
+    }
+}
